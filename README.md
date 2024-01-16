@@ -1,4 +1,1 @@
-Note:
-ATM, the footprints of the SK6812MINIs in the board file are replacements that don't match those specified in the schematic...
-
-(may have fixed this... testing...)
+This silly little RGB matrix board is specifically designed to be glued to the back of a standard North American single gang blank wallplate & fit inside the opening of a WireMold surface mount box.
